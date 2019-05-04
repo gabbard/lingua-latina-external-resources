@@ -9,7 +9,19 @@ This is a collaborative document.  If you would like to contribute, please see t
 Ørberg's own [_Colloquia Personarum_](https://www.hackettpublishing.com/lingua-latina-per-se-illustrata-series/lingua-latina-colloquia-personarum) contains entertaining dialogues for chapters 1-24.
 
 ### Chapter 1
+#### Concepts introduced
+
+* First and second declension singular and plural
+
+#### External resources
 ### Chapter 2
+#### Concepts introduced
+
+* Gender
+* First and second declension genitive
+
+#### External resources
+
 ### Chapter 3
 ### Chapter 4
 ### Chapter 5
