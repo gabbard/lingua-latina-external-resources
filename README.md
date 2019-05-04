@@ -60,4 +60,4 @@ From the top of the https://github.com/rgabbard/lingua-latina-external-resources
 
 Click the blue text which says `README.md`.  In the upper right of the file, click the pencil icon.  Make any changes you wish to make. [Here](https://guides.github.com/features/mastering-markdown/) is a description of the Markdown formatting used. Then click `Propose changes`.  Don't worry about making mistakes; your changes will be reviewed and fixed before they are incorporated.
 
-Click the pencil icon which appears at the upper-right of `README.md`. It will show the document in Markdown format; 
+Click the pencil icon which appears at the upper-right of `README.md`. It will show the document in Markdown format.
